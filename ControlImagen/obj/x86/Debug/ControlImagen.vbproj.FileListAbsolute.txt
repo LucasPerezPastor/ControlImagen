@@ -1,0 +1,9 @@
+D:\Lucas\ProyectosVisualBasic\ControlImagen\ControlImagen\bin\Debug\ControlImagen.exe
+D:\Lucas\ProyectosVisualBasic\ControlImagen\ControlImagen\bin\Debug\ControlImagen.pdb
+D:\Lucas\ProyectosVisualBasic\ControlImagen\ControlImagen\bin\Debug\ControlImagen.xml
+D:\Lucas\ProyectosVisualBasic\ControlImagen\ControlImagen\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Lucas\ProyectosVisualBasic\ControlImagen\ControlImagen\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Lucas\ProyectosVisualBasic\ControlImagen\ControlImagen\obj\x86\Debug\ControlImagen.vbproj.GenerateResource.Cache
+D:\Lucas\ProyectosVisualBasic\ControlImagen\ControlImagen\obj\x86\Debug\ControlImagen.exe
+D:\Lucas\ProyectosVisualBasic\ControlImagen\ControlImagen\obj\x86\Debug\ControlImagen.xml
+D:\Lucas\ProyectosVisualBasic\ControlImagen\ControlImagen\obj\x86\Debug\ControlImagen.pdb

@@ -1,0 +1,20 @@
+D:\Lucas\ProyectosVisualBasic\ControlImagen\ControlImagen\bin\Release\ControlImagen.exe
+D:\Lucas\ProyectosVisualBasic\ControlImagen\ControlImagen\bin\Release\ControlImagen.pdb
+D:\Lucas\ProyectosVisualBasic\ControlImagen\ControlImagen\bin\Release\ControlImagen.xml
+D:\Lucas\ProyectosVisualBasic\ControlImagen\ControlImagen\obj\x86\Release\WindowsApplication1.Form1.resources
+D:\Lucas\ProyectosVisualBasic\ControlImagen\ControlImagen\obj\x86\Release\WindowsApplication1.Resources.resources
+D:\Lucas\ProyectosVisualBasic\ControlImagen\ControlImagen\obj\x86\Release\ControlImagen.vbproj.GenerateResource.Cache
+D:\Lucas\ProyectosVisualBasic\ControlImagen\ControlImagen\obj\x86\Release\ControlImagen.exe
+D:\Lucas\ProyectosVisualBasic\ControlImagen\ControlImagen\obj\x86\Release\ControlImagen.xml
+D:\Lucas\ProyectosVisualBasic\ControlImagen\ControlImagen\obj\x86\Release\ControlImagen.pdb
+C:\Users\Lucas\OneDrive\Visual Basic\ControlImagen\ControlImagen\bin\Release\ControlImagen.exe
+C:\Users\Lucas\OneDrive\Visual Basic\ControlImagen\ControlImagen\bin\Release\ControlImagen.pdb
+C:\Users\Lucas\OneDrive\Visual Basic\ControlImagen\ControlImagen\bin\Release\ControlImagen.xml
+C:\Users\Lucas\OneDrive\Visual Basic\ControlImagen\ControlImagen\obj\x86\Release\ControlImagen.vbprojAssemblyReference.cache
+C:\Users\Lucas\OneDrive\Visual Basic\ControlImagen\ControlImagen\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Users\Lucas\OneDrive\Visual Basic\ControlImagen\ControlImagen\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\Lucas\OneDrive\Visual Basic\ControlImagen\ControlImagen\obj\x86\Release\ControlImagen.vbproj.GenerateResource.cache
+C:\Users\Lucas\OneDrive\Visual Basic\ControlImagen\ControlImagen\obj\x86\Release\ControlImagen.vbproj.CoreCompileInputs.cache
+C:\Users\Lucas\OneDrive\Visual Basic\ControlImagen\ControlImagen\obj\x86\Release\ControlImagen.exe
+C:\Users\Lucas\OneDrive\Visual Basic\ControlImagen\ControlImagen\obj\x86\Release\ControlImagen.xml
+C:\Users\Lucas\OneDrive\Visual Basic\ControlImagen\ControlImagen\obj\x86\Release\ControlImagen.pdb
